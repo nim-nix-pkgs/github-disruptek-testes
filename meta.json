@@ -7,7 +7,7 @@
   "tags": [],
   "url": "https://github.com/disruptek/testes",
   "refs": [
-    "fatal: unable to access 'https://github.com/disruptek/testes/': Could not resolve host: github.com",
+    "fatal: unable to access 'https://github.com/disruptek/testes/': SSL connection timeout",
     ""
   ],
   "heads": []
