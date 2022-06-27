@@ -61,11 +61,11 @@
       },
       "locked": {
         "dir": "0_0_7",
-        "lastModified": 1653702912,
-        "narHash": "sha256-3a98+4WSQapX7dz0el5RKfNXguHKi4XTBAR1mhlFOt0=",
+        "lastModified": 1656301797,
+        "narHash": "sha256-+KLOFS4wNXmJPGvGFhzgHdKhdShH+IkIyzpiMgW7VAM=",
         "owner": "nim-nix-pkgs",
         "repo": "github-disruptek-ups",
-        "rev": "a403652895b5549253a1d0a2480847099b66f067",
+        "rev": "ccaeebebb01b9665b92eb1e5daf6b7ba724e773a",
         "type": "github"
       },
       "original": {
